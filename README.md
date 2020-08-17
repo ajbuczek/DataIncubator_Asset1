@@ -1,2 +1,7 @@
 # DataIncubator_Asset1
-Stack Overflow Survey Data from 2020 - Do men make more money than women on average?
+Proposed Data Incubator Project
+
+I will be using the Stack Overflow Developer Survey datasets between the years of 2011 and 2020. This dataset provides user-supplied information on gender, race, age, employment status, salary, coding skills, country of origin and more. My main goal with this dataset will be to take a look at the socioeconomic status of programmers and developers. For example, I plan to answer questions like: is employment status, income, or highest level of education correlated with race, gender, or education of the developer?, What sorts of jobs are primarily held by women or bipoc?, which types of skills correlate with employment status?, Do the skill sets of men and women differ? 
+
+These questions and this type of data science project are extremely relevant as we are all part of a revolutionary part of history in both gender and race equality. I think this project is especially pertinent during the current economic downturn. It appears (through personal observation) that data science and programming jobs are still open during such an uncertain economic time when other industries are freezing hiring and laying off workers. By understanding the demographics and socioeconomic status of current developers, we can understand whether one group may be favored for the available jobs and why that might be. This can also be used as support for a push for increased diversity in hiring and more equitable education of disenfranchised groups.  
+
